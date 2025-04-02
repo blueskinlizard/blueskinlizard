@@ -6,7 +6,7 @@ I love solving complex problems, optimizing performance, and experimenting with 
 
 ### 🌱 Currently Learning  
 - **Backend:** MySQL & Node.js (Express)  
-- **Future Goals:** TypeScript, GraphQL, Docker, MongoDB, and hosting on my **Raspberry Pi**  
+- **Future Goals:** Machine Learning with Tensorflow(Tensorflow.js, python sucks) TypeScript, GraphQL, Docker, MongoDB, and natively hosting on my websites on a **Raspberry Pi**  
 
 ### 💡 Currently Know  
 - **React.js** (4/2/2025)  
