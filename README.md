@@ -8,6 +8,12 @@ I love solving complex problems, optimizing performance, and experimenting with 
 - **Backend:** MySQL & Node.js (Express)  
 - **Future Goals:** TypeScript, GraphQL, Docker, MongoDB, and hosting on my **Raspberry Pi**  
 
+### 💡 Currently Know  
+- **React.js** (4/2/2025)  
+- **Vanilla JavaScript** (3/10/2025)  
+- **Webpack** (3/2/2025, but now I use React Router)  
+- **HTML & CSS** – Continuously improving and refining my skills  
+
 ### 💻 Notable Projects  
 🚀 **FRC Canvas** (Work in Progress)  
 A **SERN** stack platform to streamline coordination for **FIRST Robotics Competition (FRC)** teams.  
@@ -18,7 +24,7 @@ I'm open to collaborating on **projects that benefit my community**, regardless 
 If you're working on something cool, feel free to reach out.  
 
 ### 📫 Contact  
-- 📧 Email: **blueskinlizard@gmail.com, s1871261@online.houstonisd.org**  
+- 📧 Email: **blueskinlizard@gmail.com**  
 - 🔗 [GitHub Profile](https://github.com/blueskinlizard)  
 
 ### 📊 GitHub Stats  
@@ -33,3 +39,5 @@ If you're working on something cool, feel free to reach out.
 - My **favorite programming language is C#!** (Even though I don't use it often 😆)  
 
 ---
+
+Would you like to add **badges** for your skills or a **streak counter** for GitHub contributions? 🚀🔥
