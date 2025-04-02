@@ -29,6 +29,7 @@ If you're working on something cool, feel free to reach out.
 
 ### 📊 GitHub Stats  
 ![Adrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blueskinlizard&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blueskinlizard&theme=tokyonight)  
 
 ### 😄 Pronouns  
 **He/Him**  
@@ -40,4 +41,3 @@ If you're working on something cool, feel free to reach out.
 
 ---
 
-Would you like to add **badges** for your skills or a **streak counter** for GitHub contributions? 🚀🔥
