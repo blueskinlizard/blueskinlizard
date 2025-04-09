@@ -11,7 +11,7 @@ I love solving complex problems, optimizing performance, and experimenting with 
 ### 💡 Currently Know  
 - **React.js** (4/2/2025)  
 - **Vanilla JavaScript** (3/10/2025)  
-- **Webpack** (3/2/2025, but now I use React Router)  
+- **Webpack** (3/2/2025, but now I've been pivoting towards Vite)  
 - **HTML & CSS** – Continuously improving and refining my skills  
 
 ### 💻 Notable Projects  
