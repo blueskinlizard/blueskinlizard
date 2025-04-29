@@ -5,7 +5,7 @@ I'm passionate about **Full Stack Development** and **Machine Learning (TensorFl
 I love solving complex problems, optimizing performance, and experimenting with new technologies.  
 
 ### 🌱 Currently Learning  
-- **General purpose:** Typescript
+- **Right now:** Redis, Typescript, Material UI(MUI)
 - **Future Goals:** Machine Learning with Tensorflow(Tensorflow.js) TypeScript, GraphQL, Docker, MongoDB, and natively hosting on my websites on a **Raspberry Pi**  
 
 ### 💡 Currently Know 
