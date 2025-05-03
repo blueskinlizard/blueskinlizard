@@ -9,7 +9,42 @@ I love solving complex problems, optimizing performance, and experimenting with 
 - **Future Goals:** Machine Learning with Tensorflow(Tensorflow.js) TypeScript, GraphQL, Docker, MongoDB, and natively hosting on my websites on a **Raspberry Pi**  
 
 ### 💡 Currently Know 
-<table> <tr> <td align="center" width="150px"> <img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma"/><br> <b>Prisma ORM</b> </td> <td align="center" width="150px"> <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL"/><br> <b>PostgreSQL</b> </td> <td align="center" width="150px"> <img src="https://skillicons.dev/icons?i=nodejs,express" width="40" alt="Node.js (Express)"/><br> <b>Node.js (Express.js)</b> </td> </tr> <tr> <td align="center" width="150px"> <img src="https://skillicons.dev/icons?i=react" width="40" alt="React.js"/><br> <b>React.js</b> </td> <td align="center" width="150px"> <img src="https://skillicons.dev/icons?i=javascript" width="40" alt="JavaScript"/><br> <b>Vanilla JavaScript</b> </td> <td align="center" width="150px"> <img src="https://skillicons.dev/icons?i=html,css" width="40" alt="HTML & CSS"/><br> <b>HTML & CSS</b> </td> </tr> </table>
+<table> 
+  <tr> 
+    <td align="center" width="150px"> 
+      <img src="https://skillicons.dev/icons?i=prisma" width="40" alt="Prisma"/><br> 
+      <b>Prisma ORM</b> 
+    </td> 
+    <td align="center" width="150px"> 
+      <img src="https://skillicons.dev/icons?i=postgres" width="40" alt="PostgreSQL"/><br> 
+      <b>PostgreSQL</b> 
+    </td> 
+    <td align="center" width="150px"> 
+      <img src="https://skillicons.dev/icons?i=nodejs,express" width="40" alt="Node.js (Express)"/><br> 
+      <b>Node.js (Express.js)</b> 
+    </td> 
+  </tr> 
+  <tr> 
+    <td align="center" width="150px"> 
+      <img src="https://skillicons.dev/icons?i=react" width="40" alt="React.js"/><br> 
+      <b>React.js</b> 
+    </td> 
+    <td align="center" width="150px"> 
+      <img src="https://skillicons.dev/icons?i=javascript" width="40" alt="JavaScript"/><br> 
+      <b>Vanilla JavaScript</b> 
+    </td> 
+    <td align="center" width="150px"> 
+      <img src="https://skillicons.dev/icons?i=html,css" width="40" alt="HTML & CSS"/><br> 
+      <b>HTML & CSS</b> 
+    </td> 
+  </tr> 
+  <tr>
+    <td align="center" width="150px"> 
+      <img src="https://skillicons.dev/icons?i=redis" width="40" alt="Redis"/><br> 
+      <b>Redis</b> 
+    </td>
+  </tr>
+</table>
 
 ### 💻 Notable Projects  
 🚀 **FRC Canvas** (Work in Progress)  
