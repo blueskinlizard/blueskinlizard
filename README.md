@@ -43,6 +43,10 @@ I love solving complex problems, optimizing performance, and experimenting with 
       <img src="https://skillicons.dev/icons?i=redis" width="40" alt="Redis"/><br> 
       <b>Redis</b> 
     </td>
+    <td align="center" width="150px"> 
+      <img src="https://skillicons.dev/icons?i=mui" width="40" alt="Material UI"/><br> 
+      <b>Material UI</b> 
+  </td>
   </tr>
 </table>
 
