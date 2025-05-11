@@ -62,7 +62,7 @@ Built with the SERN stack.
 https://github.com/blueskinlizard/Multiplayer-Whiteboard
 
 #### 💬 Messaging Board
-Messaging app using REST only (NO WebSockets, utilized Tanstack query for rpeated fetching). Auth, user search, private messages.
+Messaging app using REST only (NO WebSockets, utilized Tanstack query for repeated fetching). Auth, user search, private messages.
 Built with the SERN stack.
 https://github.com/blueskinlizard/Odin-Messaging-App
 
