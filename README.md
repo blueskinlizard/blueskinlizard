@@ -5,7 +5,7 @@ I'm passionate about **Full Stack Development** and **Machine Learning (TensorFl
 I love solving complex problems, optimizing performance, and experimenting with new technologies.  
 
 ### 🌱 Currently Learning  
-- **Right now:** Redis, Typescript, Material UI(MUI)
+- **Right now:** Docker, Typescript, Material UI(MUI)
 - **Future Goals:** Machine Learning with Tensorflow(Tensorflow.js) TypeScript, GraphQL, Docker, MongoDB, and natively hosting on my websites on a **Raspberry Pi**  
 
 ### 💡 Currently Know 
@@ -55,9 +55,20 @@ I love solving complex problems, optimizing performance, and experimenting with 
 A **SERN** stack platform to streamline coordination for **FIRST Robotics Competition (FRC)** teams.  
 _Currently in the planning and learning phase!_  
 
+#### ✏️ Real-Time Whiteboard  
+REAL - TIME, collaborative whiteboard app with DM-Based drawing, auth, user-sharing, redis caching (for efficiency), and session handling.
+Built with the SERN stack.
+*Canvas history coming soon.*
+https://github.com/blueskinlizard/Multiplayer-Whiteboard
+
+#### 💬 Messaging Board
+Messaging app using REST only (NO WebSockets, utilized Tanstack query for rpeated fetching). Auth, user search, private messages.
+Built with the SERN stack.
+https://github.com/blueskinlizard/Odin-Messaging-App
+
 ### 💞️ Collaboration  
 I'm open to collaborating on **projects that benefit my community**, regardless of the tech stack!  
-If you're working on something cool, feel free to reach out.  
+If you're working on something cool, PLEASE feel free to reach out.  
 
 ### 📫 Contact  
 - 📧 Email: **blueskinlizard@gmail.com**  
@@ -73,7 +84,8 @@ If you're working on something cool, feel free to reach out.
 ### ⚡ Fun Facts  
 - **1400 Elo** on Chess.com ♟️  
 - Can **solve a Rubik’s Cube in under 20 seconds** 🧩  
-- My **favorite programming language is C#!** (Even though I don't use it often 😆)  
+- My **favorite programming language is C#!** (Even though I don't use it often 😆)
+- I SOMETIMES work on game development in Unity
 
 ---
 
