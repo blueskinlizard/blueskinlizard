@@ -44,15 +44,19 @@ I enjoy solving complex problems, optimizing performance, and exploring new tech
       <b>Python</b> 
     </td>
     <td align="center" width="150px"> 
-      <img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,pytorch" width="40" alt="ML Libraries"/><br> 
-      <b>NumPy, Pandas, scikit-learn, PyTorch</b> 
+      <img src="https://skillicons.dev/icons?i=sklearn" width="40" alt="scikit-learn"/><br> 
+      <b>scikit-learn</b> 
     </td>
     <td align="center" width="150px"> 
-      <img src="https://skillicons.dev/icons?i=csharp" width="40" alt="C#"/><br> 
-      <b>C#</b> 
+      <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch"/><br> 
+      <b>PyTorch</b> 
     </td> 
   </tr>
   <tr>
+    <td align="center" width="150px"> 
+      <img src="https://skillicons.dev/icons?i=csharp" width="40" alt="C#"/><br> 
+      <b>C#</b> 
+    </td>
     <td align="center" width="150px"> 
       <img src="https://skillicons.dev/icons?i=java" width="40" alt="Java"/><br> 
       <b>Java</b> 
@@ -61,6 +65,8 @@ I enjoy solving complex problems, optimizing performance, and exploring new tech
       <img src="https://skillicons.dev/icons?i=redis" width="40" alt="Redis"/><br> 
       <b>Redis</b> 
     </td>
+  </tr>
+  <tr>
     <td align="center" width="150px"> 
       <img src="https://skillicons.dev/icons?i=mui" width="40" alt="Material UI"/><br> 
       <b>Material UI (MUI)</b> 
