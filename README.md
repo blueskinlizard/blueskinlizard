@@ -54,7 +54,7 @@ I enjoy solving complex problems, optimizing performance, and exploring new tech
   </tr>
   <tr>
     <td align="center" width="150px"> 
-      <img src="https://skillicons.dev/icons?i=csharp" width="40" alt="C#"/><br> 
+      <img src="https://skillicons.dev/icons?i=cs" width="40" alt="C#"/><br>
       <b>C#</b> 
     </td>
     <td align="center" width="150px"> 
