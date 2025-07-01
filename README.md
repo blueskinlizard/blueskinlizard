@@ -76,9 +76,20 @@ I enjoy solving complex problems, optimizing performance, and exploring new tech
 
 ### 💻 Notable Projects  
 
-#### 🤖 AutoSentinel *(In Progress)*  
+#### 🗺️ NutriMap
+
+A web application that maps and predicts food insecurity across Houston using public census and geographic data.
+NutriMap clusters census tracts by food insecurity risk using an Autoencoder + K-Means pipeline, then uses an XGBoost model trained on historical trends to forecast future shifts in food availability.  
+The React + Leaflet.js dashboard visualizes current risk levels and projected changes across the city.
+🔗 [NutriMap Repo](https://github.com/blueskinlizard/NutriMap)
+
+*Built with React.js, PyTorch, scikit-learn, Leaflet.js*
+
+#### 🤖 AutoSentinel   
 An AI-powered surveillance event tracker for gun detection. 
-Detects and timestamps gun detection on an easily accesible, live dashboard that can be shared with other users.  
+Detects and timestamps gun detection on an easily accesible, live dashboard that can be shared with other users.
+🔗 [AutoSentinel Repo](https://github.com/blueskinlizard/AutoSentinel)
+
 *Built with React.js, Prisma, Node.js, and a custom trained YOLOv11 model*
 
 #### ✏️ Real-Time Whiteboard  
@@ -86,12 +97,6 @@ A **real-time collaborative whiteboard** with DM-based drawing, authentication, 
 Built with the SERN stack.  
 *Canvas history coming soon.*  
 🔗 [Multiplayer Whiteboard Repo](https://github.com/blueskinlizard/Multiplayer-Whiteboard)
-
-#### 💬 Messaging Board  
-A messaging app built using REST APIs only (no WebSockets), with TanStack Query for repeated fetching.  
-Includes authentication, user search, and private messaging.  
-Built with the SERN stack.  
-🔗 [Odin Messaging App Repo](https://github.com/blueskinlizard/Odin-Messaging-App)
 
 ### 🤝 Collaboration  
 I'm open to collaborating on **projects that make a positive impact**, regardless of the tech stack.  
@@ -113,3 +118,4 @@ If you're working on something interesting, feel free to reach out!
 - Can **solve a Rubik’s Cube in under 20 seconds** 🧩  
 - My favorite programming language is **C#** 
 - I occasionally work on **game development in Unity**
+- Currently prototyping a framework for Unity games in python — stay tuned👀
