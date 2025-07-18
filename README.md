@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adrian Tkachenko (@blueskinlizard)
 
 ### 🧠 Who Am I?  
-I'm a high school student based in **Texas**, currently going into **11th grade**.  
+I'm a high school student based in **Texas**, currently going into **10th grade**.  
 I'm deeply invested in **machine learning**, **web development**, and **research-driven innovation**, especially projects that merge software with real-world social impact.  
 I've spent my time building end-to-end ML pipelines, deploying full-stack apps, and building AI-centered tools aimed at education, public safety, and accessibility.  
 
