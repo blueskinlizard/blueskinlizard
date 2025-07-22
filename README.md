@@ -83,6 +83,17 @@ I enjoy solving real-world problems through interpretable AI and intiuitive web 
 
 
 ### 💻 Notable Projects  
+
+---
+#### ⭐ StarTrack  
+An interactive **stellar classification dashboard** combining tabular metadata and spectral flux data with multimodal deep learning.  
+- Dual-branch model: Dense net for metadata, BiLSTM for spectral sequences  
+- Lookup stars by PLATE-MJD-FIBERID and compare model predictions vs actual labels  
+- Built as a learning project with React.js frontend and PyTorch backend  
+
+🔗 [StarTrack Repo](https://github.com/blueskinlizard/startrack)  
+*Built with PyTorch, React.js, Node.js, Pandas, Numpy, Sklearn, BiLSTM, Dense Neural Networks, and Astropy*
+
 ---
 #### 📡 EchoScope  
 A deep learning-powered **radio signal classification system** for real-time analysis of IQ and spectrogram data.  
@@ -102,19 +113,6 @@ A geographic ML web app that **maps and forecasts food insecurity** across Houst
 
 🔗 [NutriMap Repo](https://github.com/blueskinlizard/NutriMap)  
 *Built with PyTorch, scikit-learn, React.js, Leaflet.js*
-
----
-
-
-
-#### 🤖 AutoSentinel  
-An AI-powered **school surveillance assistant** for gun detection and alerting.  
-- Detects and timestamps gun appearances in footage using a YOLOv11 variant  
-- Live dashboard for sharing and review  
-- Focus on real-world deployability and school safety  
-
-🔗 [AutoSentinel Repo](https://github.com/blueskinlizard/AutoSentinel)  
-*Built with YOLOv11, React.js, Node.js, Prisma*
 
 ---
 
