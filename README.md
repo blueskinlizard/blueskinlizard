@@ -3,16 +3,18 @@
 ### 🧠 Who Am I?  
 I'm a high school student based in **Texas**, currently going into **10th grade**.  
 I'm deeply invested in **machine learning**, **web development**, and **research-driven innovation**, especially projects that merge software with real-world social impact.  
-I've spent my time building end-to-end ML pipelines, deploying full-stack apps, and building AI-centered tools aimed at education, public safety, and accessibility.  
+I've spent my time building end-to-end ML pipelines, deploying full-stack apps, and creating AI-centered tools aimed at education, public safety, and accessibility.  
 
+---
 
 ### 👀 Interests  
 I'm passionate about **Machine Learning** and **Full Stack Development**.  
-I enjoy solving real-world problems through interpretable AI and intiuitive web design.
+I enjoy solving real-world problems through interpretable AI and intuitive web design.
 
+---
 
 ### 🌱 Currently Learning  
-- **Deepening my ML skillset** with PyTorch & Sklearn
+- **Deepening my ML skillset** with PyTorch & scikit-learn  
 - **Improving deployment pipelines** with Docker and model-serving tools  
 - **Upcoming goals**: TensorFlow (incl. TensorFlow.js), GraphQL, MongoDB, TypeScript, and self-hosted Raspberry Pi setups for ML demos
 
@@ -34,7 +36,7 @@ I enjoy solving real-world problems through interpretable AI and intiuitive web 
       <b>scikit-learn</b> 
     </td>
   </tr>
-    <tr> 
+  <tr> 
     <td align="center" width="150px"> 
       <img src="https://skillicons.dev/icons?i=react" width="40" alt="React.js"/><br> 
       <b>React.js</b> 
@@ -76,52 +78,51 @@ I enjoy solving real-world problems through interpretable AI and intiuitive web 
       <b>Java</b> 
     </td>
   </tr>
-  <tr>
-    
-  </tr>
 </table>
 
+---
 
 ### 💻 Notable Projects  
 
 ---
-#### ⭐ StarTrack  
-An interactive **stellar classification dashboard** combining tabular metadata and spectral flux data with multimodal deep learning.  
-- Dual-branch model: Dense net for metadata, BiLSTM for spectral sequences  
-- Lookup stars by PLATE-MJD-FIBERID and compare model predictions vs actual labels  
-- Built as a learning project with React.js frontend and PyTorch backend  
+#### 🎭 EvoDilemma  
+A large-scale **evolutionary AI simulation** that explores the emergence of cooperation, deception, and memory-based strategy in the Iterated Prisoner’s Dilemma.  
+- Simulates 600+ neural agents evolving in Watts-Strogatz small-world networks  
+- Implements crossover with random weight masking and stratified mutation  
+- Fitness-based pruning with memory bootstrapping and full match history tracking  
+- Real-time Unity visualization includes genealogy trees, phenotype mapping, and interaction networks  
+- Distributed system with Flask + PyTorch backend communicating via REST API with Unity client  
 
-🔗 [StarTrack Repo](https://github.com/blueskinlizard/startrack)  
-*Built with PyTorch, React.js, Node.js, Pandas, Numpy, Sklearn, BiLSTM, Dense Neural Networks, and Astropy*
-
----
-#### 📡 EchoScope  
-A deep learning-powered **radio signal classification system** for real-time analysis of IQ and spectrogram data.  
-- Dual-branch model: LSTM for raw IQ signals, Transformer for spectrograms  
-- Upload `.wav` files and view predictions via a live web dashboard  
-- Designed for robust radio signal research, with attention maps and multimodal fusion  
-
-🔗 [EchoScope Repo](https://github.com/blueskinlizard/EchoScope)  
-*Built with PyTorch, React.js, Node.js, BiLSTM, Transformer, and Express.js*
+🔗 [EvoDilemma Repo](https://github.com/blueskinlizard/EvoDilemma)  
+*Built with Unity (C#), Flask, PyTorch, REST APIs, Graph Theory, Genetic Algorithms, and Coroutines*
 
 ---
 #### 🗺️ NutriMap  
 A geographic ML web app that **maps and forecasts food insecurity** across Houston.  
-- Autoencoder + K-Means pipeline for risk clustering  
-- XGBoost model predicts future food desert emergence  
-- Visualized via React + Leaflet dashboard  
+- Autoencoder + K-Means pipeline clusters census tracts by current food access risk  
+- XGBoost forecasts future food desert emergence using multi-year historical data  
+- React + Leaflet dashboard visualizes risk zones and predictive trends  
 
 🔗 [NutriMap Repo](https://github.com/blueskinlizard/NutriMap)  
 *Built with PyTorch, scikit-learn, React.js, Leaflet.js*
 
 ---
+#### ⭐ StarTrack  
+An interactive **stellar classification dashboard** combining tabular metadata and spectral flux data with multimodal deep learning.  
+- Dual-branch model: Dense network for metadata, BiLSTM for spectral sequences  
+- Users can query by PLATE-MJD-FIBERID to view model predictions vs ground truth  
+- Built to explore classification of stellar types and properties from SDSS datasets  
 
+🔗 [StarTrack Repo](https://github.com/blueskinlizard/startrack)  
+*Built with PyTorch, React.js, Node.js, Pandas, Numpy, Sklearn, BiLSTM, Dense Neural Networks, and Astropy*
 
+---
 
 ### 🤝 Collaboration  
 I’m open to collaboration on **AI for social impact**, **interpretable ML**, and **experimental projects** in the NLP or computer vision space.  
 Whether you're a student, parent, or professor, I'd love to assist in your work!
 
+---
 
 ### 📫 Contact  
 - 📧 Email: **blueskinlizard@gmail.com**  
