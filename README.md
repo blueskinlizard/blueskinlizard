@@ -115,8 +115,8 @@ A deep learning-powered **radio signal classification system** for real-time ana
 - Designed for diverse radio signal research, with attention maps and multimodal fusion  
 
 🔗 [EchoScope Repo](https://github.com/blueskinlizard/EchoScope)  
+*Built with PyTorch, scikit-learn, React.js, Leaflet.js, Node.js, Express.js*
 
-*Built with PyTorch, React.js, Node.js, BiLSTM, Transformer architecture, and Express.js*
 ---
 
 ### 🤝 Collaboration  
