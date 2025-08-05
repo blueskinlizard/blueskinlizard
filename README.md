@@ -107,15 +107,16 @@ A geographic ML web app that **maps and forecasts food insecurity** across Houst
 *Built with PyTorch, scikit-learn, React.js, Leaflet.js*
 
 ---
-#### ⭐ StarTrack  
-An interactive **stellar classification dashboard** combining tabular metadata and spectral flux data with multimodal deep learning.  
-- Dual-branch model: Dense network for metadata, BiLSTM for spectral sequences  
-- Users can query by PLATE-MJD-FIBERID to view model predictions vs ground truth  
-- Built to explore classification of stellar types and properties from SDSS datasets  
+#### 📡 EchoScope  
 
-🔗 [StarTrack Repo](https://github.com/blueskinlizard/startrack)  
-*Built with PyTorch, React.js, Node.js, Pandas, Numpy, Sklearn, BiLSTM, Dense Neural Networks, and Astropy*
+A deep learning-powered **radio signal classification system** for real-time analysis of IQ and spectrogram data.  
+- Dual-branch model: LSTM for raw IQ signals, Transformer for spectrograms  
+- Upload .wav files and view predictions via a live web dashboard  
+- Designed for diverse radio signal research, with attention maps and multimodal fusion  
 
+🔗 [EchoScope Repo](https://github.com/blueskinlizard/EchoScope)  
+
+*Built with PyTorch, React.js, Node.js, BiLSTM, Transformer architecture, and Express.js*
 ---
 
 ### 🤝 Collaboration  
