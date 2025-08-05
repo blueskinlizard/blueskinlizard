@@ -94,7 +94,7 @@ A large-scale **evolutionary AI simulation** that explores the emergence of coop
 - Distributed system with Flask + PyTorch backend communicating via REST API with Unity client  
 
 🔗 [EvoDilemma Repo](https://github.com/blueskinlizard/EvoDilemma)  
-*Built with Unity (C#), Flask, PyTorch, REST APIs, Graph Theory, Genetic Algorithms, and Coroutines*
+*Built with Unity (C#), Flask, PyTorch, REST APIs, Graph Theory, and Genetic Algorithms*
 
 ---
 #### 🗺️ NutriMap  
