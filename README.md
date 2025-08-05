@@ -98,7 +98,7 @@ A large-scale **evolutionary AI simulation** that explores the emergence of coop
 
 ---
 #### 🗺️ NutriMap  
-A geographic ML web app that **maps and forecasts food insecurity** across Houston.  
+A geographic ML web app that **maps and forecasts food insecurity** across the nation.  
 - Autoencoder + K-Means pipeline clusters census tracts by current food access risk  
 - XGBoost forecasts future food desert emergence using multi-year historical data  
 - React + Leaflet dashboard visualizes risk zones and predictive trends  
