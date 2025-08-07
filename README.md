@@ -121,13 +121,6 @@ A deep learning-powered **radio signal classification system** for real-time ana
 *Built with PyTorch, scikit-learn, React.js, Leaflet.js, Node.js, Express.js*
 
 ---
-
-### 🤝 Collaboration  
-I’m open to collaboration on **AI for social impact**, **interpretable ML**, and **experimental projects** in the NLP or computer vision space.  
-Whether you're a student, parent, or professor, I'd love to assist in your work!
-
----
-
 ### 📫 Contact  
 - 📧 Email: **blueskinlizard@gmail.com**  
 - 🔗 [GitHub Profile](https://github.com/blueskinlizard)
