@@ -28,8 +28,8 @@ My current research interests include:
 <table> 
   <tr>
     <td align="center" width="150px"> 
-      <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python"/><br> 
-      <b>Python</b> 
+      <img src="https://skillicons.dev/icons?i=python" width="40" alt="Python + Data Science libraries"/><br> 
+      <b>Python + Data Science libraries</b> 
     </td>
     <td align="center" width="150px"> 
       <img src="https://skillicons.dev/icons?i=pytorch" width="40" alt="PyTorch"/><br> 
@@ -47,7 +47,7 @@ My current research interests include:
     </td> 
     <td align="center" width="150px"> 
       <img src="https://skillicons.dev/icons?i=javascript" width="40" alt="JavaScript"/><br> 
-      <b>Vanilla JavaScript</b> 
+      <b>JavaScript + Data Visualization libraries</b> 
     </td> 
     <td align="center" width="150px"> 
       <img src="https://skillicons.dev/icons?i=html,css" width="40" alt="HTML & CSS"/><br> 
