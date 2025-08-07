@@ -1,24 +1,28 @@
 # 👋 Hi, I'm Adrian Tkachenko (@blueskinlizard)
 
 ### 🧠 Who Am I?  
-I'm a high school student based in **Texas**, currently going into **10th grade**.  
-I'm deeply invested in **machine learning**, **web development**, and **research-driven innovation**, especially projects that merge software with real-world social impact.  
-I've spent my time building end-to-end ML pipelines, deploying full-stack apps, and creating AI-centered tools aimed at education, public safety, and accessibility.  
+I’m a self-driven high school researcher focused on building practical ML systems with strong foundations in AI theory, web deployment, and real-world application.
+I’ve independently completed complex AI pipelines and am actively seeking opportunities to deepen my research experience under mentorship.
+
+If you're a professor/student viewing my code, feel free to contact me regarding any questions about my projects, I'd love to answer and explain!
 
 ---
 
-### 👀 Interests  
-I'm passionate about **Machine Learning** and **Full Stack Development**.  
-I enjoy solving real-world problems through interpretable AI and intuitive web design.
+### 🔬 Research Interests
 
+I'm fascinated by questions at the intersection of **machine learning**, **human behavior**, and **real-world systems**.  
+My current research interests include:
+- 🧬 **Evolutionary AI** and neuroevolution in agent-based systems  
+- 🌍 **Geospatial ML** for environmental and social applications  
+- 📊 **Data visualization & HCI** to improve human-data interaction  
+- 🤖 **AI + robotics** fusion, especially perception, autonomy, and simulation  
+- 🧠 **Interpretable & responsible AI** for social good
+- ⭐ **AI in Space** for stellar classification & planetary sciences. 
 ---
 
 ### 🌱 Currently Learning  
-- **Deepening my ML skillset** with PyTorch & scikit-learn  
-- **Improving deployment pipelines** with Docker and model-serving tools  
-- **Upcoming goals**: TensorFlow (incl. TensorFlow.js), GraphQL, MongoDB, TypeScript, and self-hosted Raspberry Pi setups for ML demos
+-  TensorFlow (incl. TensorFlow.js), GraphQL, MongoDB, TypeScript, Low-Level Programming, WPILib and self-hosted Raspberry Pi setups for ML demos
 
----
 
 ### 💡 Technologies I Know  
 <table> 
@@ -84,7 +88,6 @@ I enjoy solving real-world problems through interpretable AI and intuitive web d
 
 ### 💻 Notable Projects  
 
----
 #### 🎭 EvoDilemma  
 A large-scale **evolutionary AI simulation** that explores the emergence of cooperation, deception, and memory-based strategy in the Iterated Prisoner’s Dilemma.  
 - Simulates 600+ neural agents evolving in Watts-Strogatz small-world networks  
@@ -94,7 +97,7 @@ A large-scale **evolutionary AI simulation** that explores the emergence of coop
 - Distributed system with Flask + PyTorch backend communicating via REST API with Unity client  
 
 🔗 [EvoDilemma Repo](https://github.com/blueskinlizard/EvoDilemma)  
-*Built with Unity (C#), Flask, PyTorch, REST APIs, Graph Theory, and Genetic Algorithms*
+*Built with Unity (C#), Flask, PyTorch, REST APIs, and Genetic Algorithms*
 
 ---
 #### 🗺️ NutriMap  
@@ -144,4 +147,5 @@ Whether you're a student, parent, or professor, I'd love to assist in your work!
 - **1400 Elo** on Chess.com ♟️  
 - I can **solve a Rubik’s Cube in under 20 seconds** 🧩  
 - My favorite programming language is **C#**  
+- I love western novels! 
 - I'm building **adaptive gameplay systems** for Unity games using Python (stay tuned 👀)
