@@ -116,7 +116,7 @@ An interactive **stellar classification dashboard** combining tabular metadata a
 - Lookup stars by PLATE-MJD-FIBERID and compare model predictions vs actual labels  
 - Built as a learning project with React.js frontend and PyTorch backend  
 
-🔗 [StarTrack Repo](https://github.com/yourusername/startrack)  
+🔗 [StarTrack Repo](https://github.com/blueskinlizard/startrack)  
 *Built with PyTorch, scikit-learn, TailwindCSS React.js, Node.js*
 
 ---
