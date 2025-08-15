@@ -12,12 +12,12 @@ If you're a professor/student viewing my code, feel free to contact me regarding
 
 I'm fascinated by questions at the intersection of **machine learning**, **human behavior**, and **real-world systems**.  
 My current research interests include:
-- 🧬 **Evolutionary AI** and neuroevolution in agent-based systems  
-- 🌍 **Geospatial ML** for environmental and social applications  
-- 📊 **Data visualization & HCI** to improve human-data interaction  
-- 🤖 **AI + robotics** fusion, especially perception, autonomy, and simulation  
-- 🧠 **Interpretable & responsible AI** for social good
-- ⭐ **AI in Space** for stellar classification & planetary sciences. 
+- **Evolutionary AI** and neuroevolution in agent-based systems  
+- **Geospatial ML** for environmental and social applications  
+- **Data visualization & HCI** to improve human-data interaction  
+- **AI + robotics** fusion, especially perception, autonomy, and simulation  
+- **Interpretable & responsible AI** for social good
+- **AI in Space** for stellar classification & planetary sciences. 
 ---
 
 ### 🌱 Currently Learning  
@@ -94,7 +94,7 @@ A large-scale **evolutionary AI simulation** that explores the emergence of coop
 - Implements crossover with random weight masking and stratified mutation  
 - Fitness-based pruning with memory bootstrapping and full match history tracking  
 - Real-time Unity visualization includes genealogy trees, phenotype mapping, and interaction networks  
-- Distributed system with Flask + PyTorch backend communicating via REST API with Unity client  
+- Distributed system with Flask + PyTorch backend communicating with Unity client  
 
 🔗 [EvoDilemma Repo](https://github.com/blueskinlizard/EvoDilemma)  
 *Built with Unity (C#), Flask, PyTorch, REST APIs, and Genetic Algorithms*
@@ -132,11 +132,11 @@ An interactive **stellar classification dashboard** combining tabular metadata a
 
 ---
 
-### 😄 Pronouns  
+### Pronouns  
 **He/Him**
 
-### ⚡ Fun Facts  
-- **1400 Elo** on Chess.com ♟️  
+### Fun Facts  
+- **1400 Elo** on Chess.com ♟️ 
 - I can **solve a Rubik’s Cube in under 20 seconds** 🧩  
 - My favorite programming language is **C#**  
 - I love western novels! 
