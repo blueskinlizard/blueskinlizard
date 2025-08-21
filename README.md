@@ -1,30 +1,30 @@
 # 👋 Hi, I'm Adrian Tkachenko (@blueskinlizard)
 
-### 🧠 Who Am I?  
+### Who Am I?  
 I’m a self-driven high school researcher focused on building practical ML systems with strong foundations in AI theory, web deployment, and real-world application.
-I’ve independently completed complex AI pipelines and am actively seeking opportunities to deepen my research experience under mentorship.
+I am actively seeking opportunities to deepen my research experience under mentorship.
 
 If you're a professor/student viewing my code, feel free to contact me regarding any questions about my projects, I'd love to answer and explain!
 
 ---
 
-### 🔬 Research Interests
+### Research Interests
 
 I'm fascinated by questions at the intersection of **machine learning**, **human behavior**, and **real-world systems**.  
 My current research interests include:
-- **Evolutionary AI** and neuroevolution in agent-based systems  
-- **Geospatial ML** for environmental and social applications  
-- **Data visualization & HCI** to improve human-data interaction  
-- **AI + robotics** fusion, especially perception, autonomy, and simulation  
-- **Interpretable & responsible AI** for social good
-- **AI in Space** for stellar classification & planetary sciences. 
+- **Evolutionary AI** 
+- **Geospatial ML** 
+- **Data visualization & HCI** 
+- **AI + robotics** 
+- **Interpretable & responsible AI**
+- **AI in Space** 
 ---
 
-### 🌱 Currently Learning  
+###  Currently Learning  
 -  TensorFlow (incl. TensorFlow.js), GraphQL, MongoDB, TypeScript, Low-Level Programming, WPILib and self-hosted Raspberry Pi setups for ML demos
 
 
-### 💡 Technologies I Know  
+###  Technologies I Know  
 <table> 
   <tr>
     <td align="center" width="150px"> 
@@ -86,7 +86,7 @@ My current research interests include:
 
 ---
 
-### 💻 Notable Projects  
+###  Notable Projects  
 
 #### 🎭 EvoDilemma  
 A large-scale **evolutionary AI simulation** that explores the emergence of cooperation, deception, and memory-based strategy in the Iterated Prisoner’s Dilemma.  
@@ -120,13 +120,12 @@ An interactive **stellar classification dashboard** combining tabular metadata a
 *Built with PyTorch, scikit-learn, TailwindCSS React.js, Node.js*
 
 ---
-### 📫 Contact  
+### Contact  
 - 📧 Email: **blueskinlizard@gmail.com**  
-- 🔗 [GitHub Profile](https://github.com/blueskinlizard)
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 ![Adrian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=blueskinlizard&show_icons=true&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=blueskinlizard&theme=tokyonight)
 
@@ -137,7 +136,7 @@ An interactive **stellar classification dashboard** combining tabular metadata a
 
 ### Fun Facts  
 - **1400 Elo** on Chess.com ♟️ 
-- I can **solve a Rubik’s Cube in under 20 seconds** 🧩  
+- I can **solve a Rubik’s Cube in under 20 seconds** 
 - My favorite programming language is **C#**  
 - I love western novels! 
-- I'm building **adaptive gameplay systems** for Unity games using Python (stay tuned 👀)
+- I'm building **adaptive gameplay systems** for Unity games using Python (stay tuned)
