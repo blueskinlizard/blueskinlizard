@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Adrian Tkachenko (@blueskinlizard)
 
 ### Who Am I?  
-I’m a self-driven high school researcher focused on building practical ML systems with strong foundations in AI theory, web deployment, and real-world application.
+I’m a high school developer (hopefully soon-to-be researcher), focused on building practical ML systems with strong foundations in general ML, web deployment, and real-world application.
 I am actively seeking opportunities to deepen my research experience under mentorship.
 
 If you're a professor/student viewing my code, feel free to contact me regarding any questions about my projects, I'd love to answer and explain!
@@ -92,8 +92,8 @@ My current research interests include:
 A large-scale **evolutionary AI simulation** that explores the emergence of cooperation, deception, and memory-based strategy in the Iterated Prisoner’s Dilemma.  
 - Simulates 600+ neural agents evolving in Watts-Strogatz small-world networks  
 - Implements crossover with random weight masking and stratified mutation  
-- Fitness-based pruning with memory bootstrapping and full match history tracking  
-- Real-time Unity visualization includes genealogy trees, phenotype mapping, and interaction networks  
+- Fitness-based pruning and full match history tracking  
+- Real-time Unity visualization with interaction networks  
 - Distributed system with Flask + PyTorch backend communicating with Unity client  
 
 🔗 [EvoDilemma Repo](https://github.com/blueskinlizard/EvoDilemma)  
